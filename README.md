@@ -2,9 +2,9 @@
 
 # FlappyGame
 
-* A game where the player - one of eight cat superheroes - has to fly as far as possible while collecting coins
+* A game where the player - one of eight birds - has to fly as far as possible while collecting coins
 * Some of the lines are changing directions periodically
-* Every superhero cat has a slightly different behaviour
+* Every bird has a slightly different behaviour
 * Local highscore
 * Options
     * Play in windowed or fullscreen mode
