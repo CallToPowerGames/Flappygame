@@ -2,6 +2,12 @@
 
 ## Changelog
 
+### v1.2.0
+
+* Player tweaking
+* Introducing adjacent segments
+* General bug fixing, cleaning up and refactoring
+
 ### v1.1.0
 
 * Completely overhauled/replaced the players
