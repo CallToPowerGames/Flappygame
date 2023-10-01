@@ -2,6 +2,11 @@
 
 ## Changelog
 
+### v1.2.1
+
+* Dependency upgrades
+* Cleanup
+
 ### v1.2.0
 
 * Player tweaking
