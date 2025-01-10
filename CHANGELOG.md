@@ -2,6 +2,11 @@
 
 ## Changelog
 
+### v1.2.2
+
+* Fix random.randint float error
+* Dependency upgrades
+
 ### v1.2.1
 
 * Dependency upgrades

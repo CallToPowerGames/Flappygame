@@ -55,7 +55,7 @@ The highscore view:
 
 ## Copyright
 
-Copyright 2023 Denis Meyer
+Copyright 2023-2025 Denis Meyer
 
 ## Attributions
 
